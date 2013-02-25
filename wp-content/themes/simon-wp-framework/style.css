@@ -131,9 +131,21 @@ body {
 
 #header .tagline {
 	border-bottom: 19px solid #fff;
-	bottom: -16px;
+	bottom: -13px;
 	color: #fff;
 	font: 28px/28px DagnyProBold, Helvetica, Arial, sans-serif;
+	padding: 0 7px 9px;
+	position: absolute;
+	right: 0px;
+	text-transform: uppercase;
+}
+
+#header .homepage {
+	border-bottom: 19px solid #A9A9A9;
+	bottom: -22px;
+	color: #A9A9A9;
+	font: 28px/28px DagnyProBold, Helvetica, Arial, sans-serif;
+	margin-right: 103px;
 	padding: 0 7px 9px;
 	position: absolute;
 	right: 0px;

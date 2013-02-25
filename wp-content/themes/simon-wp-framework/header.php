@@ -27,6 +27,7 @@
     <div id="header" class="container">
             
               <a href="/" class="alt logo">EverFi<span class="eye"></span></a>
+        <strong class="homepage"><a href="http://everfi.com">Home</a></strong>
         <strong class="tagline">Blog</strong>
         
                   
