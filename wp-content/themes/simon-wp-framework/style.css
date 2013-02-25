@@ -130,13 +130,13 @@ body {
 }
 
 #header .tagline {
-	border-bottom: 35px solid #fff;
+	border-bottom: 19px solid #fff;
 	bottom: -16px;
 	color: #fff;
 	font: 28px/28px DagnyProBold, Helvetica, Arial, sans-serif;
 	padding: 0 7px 9px;
 	position: absolute;
-	right: 260px;
+	right: 0px;
 	text-transform: uppercase;
 }
 
